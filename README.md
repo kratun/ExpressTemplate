@@ -2,7 +2,8 @@
 
 ## How to start
 Download it as .zip file or clone it. 
-Please write in command line in cmd for Windows (or equivalent) "npm install". It will install all dependancies (express express-handlebars cookie-parser express-validator mongodb mongoose bcrypt jsonwebtoken).
+
+Write in command line in cmd for Windows (or equivalent) "npm install". It will install all dependancies (express express-handlebars cookie-parser express-validator mongodb mongoose bcrypt jsonwebtoken).
 
 After installations write "npx nodemon" to start server. It will have listening on port 3000.
 
