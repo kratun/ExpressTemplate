@@ -1,6 +1,7 @@
 # Express App
 
 ## How to start
+Go to https://github.com/kratun/ExpressTemplate
 Download it as .zip file or clone it. 
 
 Write in the command line in cmd for Windows (or equivalent) "npm install". It will install all dependancies (express express-handlebars cookie-parser express-validator mongodb mongoose bcrypt jsonwebtoken etc.).
